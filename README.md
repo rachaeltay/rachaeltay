@@ -18,8 +18,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-22272e?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-22272e?style=flat&logo=PyCharm&logoColor=000000&labelColor=ffffff)
 ![NPM](https://img.shields.io/badge/-npm-22272e?style=flat&logo=npm&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-22272e?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-22272e?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-22272e?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-22272e?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Prettier](https://img.shields.io/badge/-Prettier-22272e?style=flat&logo=prettier)
