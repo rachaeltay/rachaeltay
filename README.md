@@ -1,11 +1,11 @@
-<h2><samp><strong>Hi there 👋🏻, I am Rachael Tay</strong></samp></h2>
-<h3><strong><a href="https://rachaeltay.github.io/" target="_blank">Portfolio🌐</a></strong></h3>
-<p>Angular/React developer | Web developer</p>
+# Hi there 👋🏻, I am Rachael
+### <a href="https://rachaeltay.github.io/" target="_blank">Portfolio 🌐
+Angular/React developer | Web developer
 
 
-<h3>Languages and Tools</h3>
+### Languages and Tools
 
-💻<strong>Frontend</strong><br>
+💻**Frontend**
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=ffffff&labelColor=ff0000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
@@ -24,7 +24,8 @@
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Prettier](https://img.shields.io/badge/-Prettier-000000?style=flat&logo=prettier)
 
-🛠️<strong>Backend</strong><br>
+🛠️**Backend**
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=1572B6)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&labelColor=008000&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=000000&labelColor=ffffff)
