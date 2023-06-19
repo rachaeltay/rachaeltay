@@ -1,39 +1,31 @@
-# Hi there 👋🏻, I am Rachael
+### Hi there 👋🏻, I am Rachael
 ### <a href="https://rachaeltay.github.io/" target="_blank">Portfolio 🌐</a>
 
 
 
 ### Languages and Tools
 
-💻 **Frontend**
+<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Eslint" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 
-![Angular](https://img.shields.io/badge/-Angular-22272e?style=flat&logo=angular&logoColor=ffffff&labelColor=ff0000)
-![React](https://img.shields.io/badge/-React-22272e?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-22272e?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-22272e?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Typescript](https://img.shields.io/badge/-Typescript-22272e?style=flat&logo=typescript&logoColor=ffffff&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-22272e?style=flat&logo=javascript)
-![Figma](https://img.shields.io/badge/-Figma-22272e?style=flat&logo=figma&logoColor=ffffff&labelColor=4B32C3)
-![Canva](https://img.shields.io/badge/-Canva-22272e?style=flat&logo=Canva&logoColor=ffffff&labelColor=6ce8fc)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-22272e?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![PyCharm](https://img.shields.io/badge/-PyCharm-22272e?style=flat&logo=PyCharm&logoColor=000000&labelColor=ffffff)
-![NPM](https://img.shields.io/badge/-npm-22272e?style=flat&logo=npm&labelColor=ffffff)
-![Jest](https://img.shields.io/badge/-Jest-22272e?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESlint-22272e?style=flat&logo=ESlint&labelColor=4B32C3)
-![Prettier](https://img.shields.io/badge/-Prettier-22272e?style=flat&logo=prettier)
-
-🛠️ **Backend**
-
-![Python](https://img.shields.io/badge/-Python-22272e?style=flat&logo=python&logoColor=ffffff&labelColor=1572B6)
-![Django](https://img.shields.io/badge/-Django-22272e?style=flat&logo=django&labelColor=008000&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/-Flask-22272e?style=flat&logo=flask&logoColor=000000&labelColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-22272e?style=flat&logo=php&logoColor=ffffff&labelColor=563D7C)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-22272e?style=flat&logo=amazon-aws&logoColor=ffffff&labelColor=E34F26)
-![MySQL](https://img.shields.io/badge/-MySQL-22272e?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-22272e?style=flat&logo=mongodb&labelColor=ffffff)
-![Mac](https://img.shields.io/badge/-Mac-22272e?style=flat&logo=apple&logoColor=000000&labelColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-22272e?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-22272e?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+          
 
 
 <!--
