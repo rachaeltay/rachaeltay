@@ -1,8 +1,6 @@
 ### Hi 👋🏻, I am Rachael
 ### <a href="https://rachaeltay.github.io/" target="_blank">Portfolio 🌐</a>
 
-I'm a software engineer that's passionate about continuous learning and exploring new technologies. Beyond software engineering, I also find joy in other forms of crafts such as building custom mechanical keyboards and sculpting keycaps, as they fuel my creativity and eye for detail.
-
 
 ### Languages and Tools
 
