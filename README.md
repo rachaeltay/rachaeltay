@@ -15,9 +15,9 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me
 
-### Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
