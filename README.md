@@ -6,7 +6,8 @@
           <h2> Hi 👋🏻, I am Rachael</h2>
 </div>
 
-### <a href="https://rachaeltay.github.io/" target="_blank">Portfolio 🌐</a>
+
+### Help yourself to some<a href="https://rachaeltay.github.io/" target="_blank"> tea 🧋</a>and enjoy the company of bongo cat 🐈
 
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=rachaeltay&url=https%3A%2F%2Frachaeltay.github.io)](https://rachaeltay.github.io/)
 
