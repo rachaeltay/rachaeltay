@@ -3,12 +3,7 @@
                     <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ6MDRvYzR6dzZpMTFsdTNseXFhaWJyejZrcWhkczhmbG4xbjRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3uj7PASMahBMWv9BX4/giphy.gif" width="40%" >
                     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhkdHJrM2d6Znh0N2hnYjI1ZWx5cWFjYWJmdHljb2F2dG85MGZqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtL3alcCMEcTLoWDP0/giphy.gif" alt="white-cat" width="40%" />
           </picture>
-</div>
-
-# Hi 👋🏻, I am Rachael
-
-<div id="badges">
-          
+          <h2> Hi 👋🏻, I am Rachael</h2>
 </div>
 
 ### <a href="https://rachaeltay.github.io/" target="_blank">Portfolio 🌐</a>
@@ -41,7 +36,7 @@
 
 
 ## :fire: My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachaeltay&layout=compact&theme=vision-friendly-dark)](https://github.com/rachaeltay/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachaeltay&layout=compact&theme=vision-friendly-dark&hide_progress=true)](https://github.com/rachaeltay/github-readme-stats)
 
 
 
