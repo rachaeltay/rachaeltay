@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ6MDRvYzR6dzZpMTFsdTNseXFhaWJyejZrcWhkczhmbG4xbjRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3uj7PASMahBMWv9BX4/giphy.gif" alt="codingcat" />
+</div>
+
 ### Hi 👋🏻, I am Rachael
 ### <a href="https://rachaeltay.github.io/" target="_blank">Portfolio 🌐</a>
 
