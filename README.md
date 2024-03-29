@@ -5,7 +5,7 @@
           </picture>
 </div>
 
-### Hi 👋🏻, I am Rachael
+# Hi 👋🏻, I am Rachael
 
 <div id="badges">
           
@@ -13,33 +13,36 @@
 
 ### <a href="https://rachaeltay.github.io/" target="_blank">Portfolio 🌐</a>
 
----
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=rachaeltay&url=https%3A%2F%2Frachaeltay.github.io)](https://rachaeltay.github.io/)
 
-### :woman_technologist: About Me
 
-### :hammer_and_wrench: Languages and Tools
+## :hammer_and_wrench: Languages and Tools
 
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Eslint" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<p>
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-46cdf1?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-4695f1?style=flat-square&logo=react&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-4687f1?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-1a73e8?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-3e31ea?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-6c31ea?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-c831ea?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-ea31de?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-ea3182?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-ea3154?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-ea3c31?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ea6a31?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-ea9831?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-e6cc00?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-11c101?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-0fa801?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-43853d?style=flat-square&logo=aws&logoColor=white" />
+</p>
 
-          
+
+
+## :fire: My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachaeltay&layout=compact&theme=vision-friendly-dark)](https://github.com/rachaeltay/github-readme-stats)
+
 
 
 <!--
