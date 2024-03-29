@@ -1,7 +1,7 @@
 <div id="header" align="center">
           <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ6MDRvYzR6dzZpMTFsdTNseXFhaWJyejZrcWhkczhmbG4xbjRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3uj7PASMahBMWv9BX4/giphy.gif" width="40%" >
-                    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xlcHdmYzljcXV4YTFyemVwOG5kcXVneWhldTFsNGltMjhyaWNhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G585gPLutXAtTWThRy/giphy.gif" alt="rachael-white-cat" width="40%" />
+                    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ6MDRvYzR6dzZpMTFsdTNseXFhaWJyejZrcWhkczhmbG4xbjRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3uj7PASMahBMWv9BX4/giphy.gif" width="35%" >
+                    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xlcHdmYzljcXV4YTFyemVwOG5kcXVneWhldTFsNGltMjhyaWNhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G585gPLutXAtTWThRy/giphy.gif" alt="rachael-white-cat" width="35%" />
           </picture>
           <h2> Hi 👋🏻, I am Rachael</h2>
 </div>
