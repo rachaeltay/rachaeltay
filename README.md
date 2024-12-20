@@ -10,7 +10,6 @@
 ### Help yourself to some<a href="https://rachaeltay.github.io/" target="_blank"> tea 🧋</a>and enjoy the company of bongo cat 🐈
 
 [![](https://img.shields.io/badge/rachaeltay-blue?style=flat-square&color=0ab9e6&link=https%3A%2F%2Frachaeltay.github.io%2F)](https://rachaeltay.github.io/)
-[![](https://img.shields.io/badge/diametric%20labs-blue?style=flat-square&color=000080&link=https%3A%2F%2Fdiametriclabs.com%2F)](https://diametriclabs.com/)
 
 
 
